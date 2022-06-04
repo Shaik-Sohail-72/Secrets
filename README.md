@@ -1,5 +1,5 @@
 # Secrets
-Don't keep your secrets, share them anonymously!  In this  webapp, providing very strong security to the users information by adding  Signin with Google.
+Don't keep your secrets, share them anonymously! over the world. In this  webapp, providing very strong security to the users information by adding  Signin with Google.
 
 Authenticating users with google OAuth 2.0 . So then every time we login our user we simply ask them to sign in or login with google and google will then authenticate them using their own secure methods. And once that's done, google sends us back a message saying "This user is authenticated. They are real google user and they have got their correct username and password. So go ahead and authenticate them as well."
 
