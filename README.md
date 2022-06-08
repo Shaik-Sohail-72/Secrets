@@ -9,9 +9,8 @@ This webapp is deployed on Heroku.
 
 https://secrets72.herokuapp.com/
 
-![Screenshot (337)](https://user-images.githubusercontent.com/106341416/170887517-2d1217e6-87c0-49ef-ba57-b51bff518cb2.png)
-![Screenshot (338)](https://user-images.githubusercontent.com/106341416/170887521-3ecef7e7-302f-43bf-bd33-8123372032c7.png)
-![Screenshot (339)](https://user-images.githubusercontent.com/106341416/170887523-0b0090db-f668-454b-93c2-ba63aeb7e298.png)
-![Screenshot (340)](https://user-images.githubusercontent.com/106341416/170887524-9f314543-47f2-4799-89a4-141e7388ec2c.png)
-![Screenshot (341)](https://user-images.githubusercontent.com/106341416/170887525-43dabb11-d587-480f-aac0-8039f7e9e689.png)
-![Screenshot (342)](https://user-images.githubusercontent.com/106341416/170887546-b6aecfa9-0355-4e9a-805d-70f98fc16abf.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/106341416/172664120-80a0d950-61f8-48bd-a02c-7b9b6b6f14a3.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/106341416/172664124-3e42fdc3-9659-4451-a4cc-f25a4829cfd4.png)
+![Screenshot (393)](https://user-images.githubusercontent.com/106341416/172664129-519c8671-295c-4f49-bbb2-65d49e36c8f3.png)
+![Screenshot (394)](https://user-images.githubusercontent.com/106341416/172664133-79b92838-4987-4462-b350-fe939c55d443.png)
+![Screenshot (395)](https://user-images.githubusercontent.com/106341416/172664138-ec410d06-768b-406d-a7ce-1d80699956ac.png)
